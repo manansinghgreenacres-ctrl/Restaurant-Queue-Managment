@@ -1,0 +1,10 @@
+Lettuce
+Tomatoes
+Onions
+Pickles
+Olives
+Mushrooms
+Pepperoni
+Cheese
+Turkey
+Cucumbers
